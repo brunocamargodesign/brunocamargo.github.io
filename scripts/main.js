@@ -1,1 +1,1 @@
-"use strict";
+"use strict";var Products=new Swiper(".swiper-container",{direction:"horizontal",loop:!0,autoHeight:!0,autoplay:{delay:2500,disableOnInteraction:!1},keyboard:{enabled:!0},pagination:{el:".swiper-pagination"},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}});
